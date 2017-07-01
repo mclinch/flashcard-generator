@@ -1,0 +1,26 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "A flashcard generating node app",
+  "main": "basic-card.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mclinch/flashcard-generator.git"
+  },
+  "keywords": [
+    "flashcard"
+  ],
+  "author": "Michael Clinch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mclinch/flashcard-generator/issues"
+  },
+  "homepage": "https://github.com/mclinch/flashcard-generator#readme",
+  "dependencies": {
+    "inquirer": "^3.1.1",
+    "pkg": "^4.1.1"
+  }
+}
